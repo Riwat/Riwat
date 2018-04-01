@@ -1,4 +1,7 @@
 /bootstrap/compiled.php
+/public/storage
+/storage/*.key
+/vendor
 .env.*.php
 .env.php
 .env
